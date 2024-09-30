@@ -19,4 +19,7 @@
                                                                                                                                                          
 - **Blaspberries** can be crafted by combining a Raspberry and a Blackberry in a crafting grid.  They heal 6 health points (3 hearts) and eight hunger points (4 drumstick icons).  They can be consumed instantly and apply Resistance I, Strength I, Night Vision I, and Speed IV for thirty seconds.
 
+- Cyclops Imposters drop **Trading Charms** on death, a new item with three uses.  When used on a villager, they set the villager to "Master" level and unlock all of the villager's trades, regardless of their previous level.
+  If the villager is already a Master, nothing happens and the item does not expend one use.
+
 There are a few other items, but they are still in development and will not be elaborated on until fully incorporated into the mod.
