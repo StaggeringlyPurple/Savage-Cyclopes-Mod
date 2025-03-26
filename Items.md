@@ -22,4 +22,8 @@
 - Cyclops Imposters drop **Trading Charms** on death, a new item with three uses.  When used on a villager, they set the villager to "Master" level and unlock all of the villager's trades, regardless of their previous level.
   If the villager is already a Master, nothing happens and the item does not expend one use.
 
+- **Netherite Apples** can be obtained by trading with Piglin Cyclopes.  When consumed, they apply Resistance III for one minute.
+
+- **End Totems** are dropped by Cyclops Mages.  When used, if there is a hostile entity nearby, it will summon four endermen that are hostile to that specific entity.
+
 There are a few other items, but they are still in development and will not be elaborated on until fully incorporated into the mod.
